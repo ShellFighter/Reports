@@ -22,12 +22,7 @@ Moreover, if an administrator's credentials are compromised through phishing or 
 
 - Observe the POST request containing plain text credentials
   
-
-Update the email configuration.
-
-Observe the POST request containing plain text credentials.
-
-## Detail
+## PoC
 
 In a POST request, the BasicEmailServerCreds parameter is reflected in the server's response, directly exposing the credentials of the SMTP server.
 
