@@ -12,6 +12,21 @@ This vulnerability poses a significant security risk, as an attacker or insider 
 
 Moreover, if an administrator's credentials are compromised through phishing or social engineering, this vulnerability could be leveraged by a threat actor to facilitate lateral movement within the victim's network, leading to further compromise and escalation.
 
+## Steps to Reproduce
+
+- Log in to the application as an admin.
+
+- Intercept the traffic using a tool such as Burp Suite or Wireshark or the web dev for Firefox
+
+- Update the SMTP configuration.
+
+- Observe the POST request containing plain text credentials
+  
+
+Update the email configuration.
+
+Observe the POST request containing plain text credentials.
+
 ## Detail
 
 In a POST request, the BasicEmailServerCreds parameter is reflected in the server's response, directly exposing the credentials of the SMTP server.
