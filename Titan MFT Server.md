@@ -21,7 +21,15 @@ Moreover, if an administrator's credentials are compromised through phishing or 
 - Update the SMTP configuration.
 
 - Observe the POST request containing plain text credentials
-  
+
+## Environment of testing:
+
+- Deployment Model: On-Premises
+
+- Operating System : Windows 11
+
+- Software (https://srtcdnstorage.blob.core.windows.net/software/nextgen/titansftp/titansftp-win-x64.exe)
+
 ## PoC
 
 In a POST request, the BasicEmailServerCreds parameter is reflected in the server's response, directly exposing the credentials of the SMTP server.
