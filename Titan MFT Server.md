@@ -20,6 +20,7 @@ Moreover, if an administrator's credentials are compromised through phishing or 
 
 - Update the SMTP configuration.
 
+
 - Observe the POST request containing plain text credentials
 
 ## Environment of testing:
@@ -40,3 +41,6 @@ The configuration can be performed in the Web UI as follows:
 
 
 ![Titan MFT web UI](https://github.com/user-attachments/assets/601fb49f-ff41-4177-af6f-3a4e7f8a3529)
+
+
+<img width="1250" alt="titanSMTP" src="https://github.com/user-attachments/assets/f6569208-052a-4fca-866c-803a68bc622e">
