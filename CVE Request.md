@@ -16,7 +16,7 @@ Moreover, if an administrator's credentials are compromised through phishing or 
 
 - Log in to the application as an admin.
 
-- Intercept the traffic using a tool such as Burp Suite or Wireshark or the web dev for Firefox
+- Intercept the traffic using a tool such as Burp Suite or the web dev for Firefox
 
 - Update the SMTP configuration.
 
