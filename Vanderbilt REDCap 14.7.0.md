@@ -36,4 +36,16 @@ For the project title, enter the following HTML code that creates a clickable hy
 
 ## PoC
 
+![image](https://github.com/user-attachments/assets/d0ff44cb-b836-4aa3-8678-db6b33f747b1)
 
+
+![image](https://github.com/user-attachments/assets/f9ffda10-e21f-4fd7-8238-79484ced4869)
+assiging the user to the project
+
+![image](https://github.com/user-attachments/assets/29220e6d-92ac-4d53-aad5-1e6ac034f759)
+
+![image](https://github.com/user-attachments/assets/4a7952de-fd7b-4d33-a863-d96b6915e240)
+
+![image](https://github.com/user-attachments/assets/fd7beba0-6bd1-4f48-8a13-62650d60ec0a)
+
+victim gets logged out
