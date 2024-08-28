@@ -1,5 +1,5 @@
 
-# Sensitive Information Exposure in JSON Response in Titan MFT WebUI Component
+# CSRF Vulnerability in Project Title of Vanderbilt REDCap 14.7.0 Allows Unauthorized Logout of Users
 
 ## Version
 
