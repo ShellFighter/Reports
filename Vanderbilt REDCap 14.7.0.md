@@ -17,8 +17,8 @@ Vanderbilt REDCap 14.7.0 contains a vulnerability in the project creation functi
 - Go to https://redcapdemo.vumc.org/index.php?action=myprojects.
 - Create a new project by clicking on + New Project.
 - Inject the malicious hyperlink:
-For the project title, enter the following HTML code that creates a clickable hyperlink. When clicked, this link will log the user out of the application and redirect them to a specific page:
-<a href="https://redcapdemo.vumc.org/index.php?action=myprojects&logout=1">HELP Please</a>
+For the project title, enter the following HTML code that creates a clickable hyperlink. When clicked, this link will log the user out of the application and redirect them to a specific page with thid HTML code
+<a href="hxxps://redcapdemo.vumc.org/index.php?action=myprojects&logout=1">HELP Please</a>
 - Assign the victim to the project:
 - Visit the User Rights and Permissions feature and add the victim to this specific project.
 - Victim receives access notification:
