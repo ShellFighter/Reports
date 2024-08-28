@@ -3,7 +3,7 @@
 
 ## Version
 
-Titan MFT Server version 2.0.25.2426 
+REDCap 14.7.0 
 
 ## Description
 
