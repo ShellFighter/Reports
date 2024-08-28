@@ -28,7 +28,7 @@ For the project title, enter the following HTML code that creates a clickable hy
 
 ## Environment of testing:
 
-- Deployment Model: On-Premises
+- Deployment Model: Demo ( 1- week trial https://redcapdemo.vumc.org/index.php)
 
 - Operating System : Windows 11
 
