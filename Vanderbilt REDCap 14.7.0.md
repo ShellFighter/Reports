@@ -48,4 +48,4 @@ assiging the user to the project
 
 ![image](https://github.com/user-attachments/assets/fd7beba0-6bd1-4f48-8a13-62650d60ec0a)
 
-victim gets logged out
+The victim is logged out.
