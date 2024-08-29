@@ -40,7 +40,7 @@ For the project title, enter the following HTML code that creates a clickable hy
 
 
 ![image](https://github.com/user-attachments/assets/f9ffda10-e21f-4fd7-8238-79484ced4869)
-assiging the user to the project
+Assign the user to the project.
 
 ![image](https://github.com/user-attachments/assets/29220e6d-92ac-4d53-aad5-1e6ac034f759)
 
