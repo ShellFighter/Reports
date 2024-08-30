@@ -1,5 +1,5 @@
 
-# CSRF Vulnerability in Project Title of Vanderbilt REDCap 14.7.0 Allows Unauthorized Logout of Users
+# CSRF Vulnerability in Project Title of Vanderbilt REDCap 14.7.0 Allows Unauthorized Actions 
 
 ## Version
 
