@@ -28,7 +28,19 @@ For the project title, enter the following HTML code that creates a clickable hy
   
 ## Modified CSRF Scenario with Phishing Instead of logging the user out
 
-the malicious link can redirect them to a phishing website designed to look like the legitimate login page or another important page of the application. Here’s how you can modify the scenario:1. Log in as a Normal User:Log into your REDCap application with your credentials.2. Navigate to the Project Creation Page:Go to the project creation URL: https://redcapdemo.vumc.org/index.php?action=myprojects.3. Create a New Project with a Phishing Link:Click on + New Project to create a new project.In the project title or description, insert the following HTML code:<a href="https://yourphishingsite.com">HELP Please</a>This link now points to an external phishing site. When the victim clicks on it, they will be redirected to this site.4. Assign the Victim to the Project:After creating the project, assign the victim to this project using the "User Rights and Permissions" feature.The victim will receive a notification or email that they have been granted access to the project.5. Victim Clicks the Phishing Link:When the victim views the project and clicks on the "HELP Please" link, they will be taken to the phishing site.The phishing site could be designed to look like the REDCap login page or any other page to trick the user into entering their credentials.6. Phishing Page Setup:The phishing page should look identical to the legitimate login page of the REDCap application.When the user enters their credentials on the phishing page, those credentials could be sent to the attacker’s server instead of being used to log into the real application.
+the malicious link can redirect them to a phishing website designed to look like the legitimate login page or another important page of the application. Here’s how you can modify the scenario:
+
+1. Log in as a Normal User:Log into your REDCap application with your credentials.
+   
+2 Navigate to the Project Creation Page:Go to the project creation URL: https://redcapdemo.vumc.org/index.php?action=myprojects.
+   
+3. Create a New Project with a Phishing Link:Click on + New Project to create a new project.In the project title or description, insert the following HTML code:<a href="https://yourphishingsite.com">HELP Please</a>This link now points to an external phishing site. When the victim clicks on it, they will be redirected to this site.
+   
+4. Assign the Victim to the Project:After creating the project, assign the victim to this project using the "User Rights and Permissions" feature.The victim will receive a notification or email that they have been granted access to the project.
+   
+5. Victim Clicks the Phishing Link:When the victim views the project and clicks on the "HELP Please" link, they will be taken to the phishing site.The phishing site could be designed to look like the REDCap login page or any other page to trick the user into entering their credentials.
+   
+6. Phishing Page Setup:The phishing page should look identical to the legitimate login page of the REDCap application.When the user enters their credentials on the phishing page, those credentials could be sent to the attacker’s server instead of being used to log into the real application.
 
 ## Environment of testing:
 
