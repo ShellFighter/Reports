@@ -1,4 +1,4 @@
-## Issue related to the handling of passwords
+## Authorization header disclosing credentials in base64
 
 While intercepting the traffic with my burp, I noticed that my password is being encoded using Base64 rather than using secure hashing or encryption methods.
 
