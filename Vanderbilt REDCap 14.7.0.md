@@ -65,3 +65,7 @@ Assign the user to the project.
 ![image](https://github.com/user-attachments/assets/fd7beba0-6bd1-4f48-8a13-62650d60ec0a)
 
 The victim is logged out.
+
+## Researcher: 
+
+Mounir Aarab (NTT Belgium)
