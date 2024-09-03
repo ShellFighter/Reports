@@ -44,3 +44,7 @@ The configuration can be performed in the Web UI as follows:
 
 
 <img width="1250" alt="titanSMTP" src="https://github.com/user-attachments/assets/f6569208-052a-4fca-866c-803a68bc622e">
+
+## Researcher
+
+Mounir Aarab (NTT Belgium)
