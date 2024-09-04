@@ -1,5 +1,5 @@
 
-# CSRF Vulnerability in Project Title of Vanderbilt REDCap 14.7.0 Allows Unauthorized Actions 
+## REDCap 14.7.0 allows HTML injection via the project title of a New Project action. This can lead to resultant logout CSRF via index.php?logout=1, and can also be used to insert a link to an external phishing website
 
 ## Version
 
